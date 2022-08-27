@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Big Example. Creating stack of PHP + MYSQL.
 
 #######################################
 # Print a message in a given color.
