@@ -1,5 +1,5 @@
 ## DevOps cheat sheets ##
 
-[Bash](/_devopsheets.io/1.2%20Linux-bash.md)
+[Bash](https://github.com/OLG-MAN/devopsheets/blob/main/01.02%20Linux-bash.md)
 
-[Git](/_devopsheets.io/1.3%20Linux-git.md)
+[Git](https://github.com/OLG-MAN/devopsheets/blob/main/01.03%20Linux-git.md)
